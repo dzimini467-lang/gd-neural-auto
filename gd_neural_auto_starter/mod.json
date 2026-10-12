@@ -1,0 +1,11 @@
+{
+  "geode": "v5.11.1",
+  "gd": {
+    "win": "2.2081"
+  },
+  "id": "neural.auto",
+  "name": "GD Neural Auto",
+  "version": "v0.1.0",
+  "developer": "GDNeuralAuto",
+  "description": "Starter mod for a future adaptive Geometry Dash training bot."
+}
