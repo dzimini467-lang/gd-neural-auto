@@ -1,6 +1,10 @@
 # GD Neural Auto
 
-Prototype of a future adaptive bot for Geometry Dash.
+Adaptive offline/practice autoplay experiment.
 
-**v0.1.0** verifies loading into Geometry Dash and adds a menu button.
-It does **not** yet learn or play levels. The training algorithm will be added later.
+- Train AI: searches for better jump-hold intervals across retries.
+- Record Demo: learns an input timeline from your own attempt.
+- Best-distance policy saved separately for each level.
+- Works only on supported, classic single-player levels, not practice checkpoints or dual mode.
+
+There is no machine-learning neural network in this release. The trainer is a bounded evolutionary search. Success is not guaranteed.

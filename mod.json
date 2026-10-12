@@ -5,7 +5,7 @@
   },
   "id": "neural.auto",
   "name": "GD Neural Auto",
-  "version": "v0.1.0",
+  "version": "v0.3.0",
   "developer": "GDNeuralAuto",
-  "description": "Starter mod for a future adaptive Geometry Dash training bot."
+  "description": "Experimental adaptive autoplay with per-level evolutionary input search and manual demonstration recording."
 }
